@@ -1,3 +1,12 @@
 body{
     background-color: #FF3D3D;
 }
+
+.col-auto{
+    margin-left: 20px;
+
+}
+
+.formularz{
+    margin-top: 20px;
+}
