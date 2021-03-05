@@ -7,6 +7,21 @@ body{
 
 }
 
-.formularz{
+button{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.forms-container{
+    width: 20%;
+    margin: auto;
+    margin-top: 25px;
+}
+.buttons{
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.img {
+    width: 100px;
+    height: auto;
 }
